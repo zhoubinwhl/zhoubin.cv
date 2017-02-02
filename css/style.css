@@ -631,7 +631,7 @@ div.skills{
     height: 80%;
     background-image: url(https://raw.githubusercontent.com/zhoubinwhl/zhoubin.cv/master/img/designer&coder.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center bottom;
     background-size: 30em;
 }
 .top p{
